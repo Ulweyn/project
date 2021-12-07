@@ -2,7 +2,7 @@
 
 @section('title', 'My Blog')
 
-@section('contents')
+@section('content')
     <div class="btn-group mb-4" role="group" aria-label="Basic outlined example">
         <a href="#" class="btn btn-outline-primary active">Category 1</a>
         <a href="#" class="btn btn-outline-primary">Category 2</a>
