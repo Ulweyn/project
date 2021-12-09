@@ -19,7 +19,6 @@ class CategorySeeder extends Seeder
             DB::table('categories')->insert([
                 'title' => 'Category '.$i,
                 'slug' => 'category-'.$i
-
             ]);
     }
 }
